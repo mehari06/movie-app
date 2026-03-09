@@ -16,6 +16,47 @@ This guide helps you confirm that GitHub Copilot Pro (not just regular Copilot) 
 
 ---
 
+## 📸 Visual Guide: What Does Copilot Pro Look Like?
+
+### What You Should See (✅ Pro Account)
+
+When you click the model selector in Copilot Chat, you should see a dropdown menu with:
+
+```
+Search models
+├─ Auto                          10% discount
+├─ GPT-5.3-Codex                1x
+├─ GPT-5.4                      1x  ← (currently selected)
+├─ Claude Opus 4.6              Contact your admin
+├─ Claude Sonnet 4.6            Contact your admin
+└─ Other Models
+   ├─ Gemini 2.5 Pro            1x
+   ├─ Gemini 3 Flash (Preview)  0.33x
+   ├─ Gemini 3 Pro (Preview)    1x
+   └─ Gemini 3.1 Pro (Preview)  1x
+```
+
+**If your screen looks like this → You have Copilot Pro! ✅**
+
+Key indicators:
+- ✅ Multiple models listed (5-10+ options)
+- ✅ Can click and select different models
+- ✅ Some models may show "Contact your admin" (this is normal!)
+- ✅ Model names with versions (GPT-5.4, Claude 4.6, Gemini 2.5, etc.)
+- ✅ Multiplier indicators (1x, 0.33x) showing model speed/cost
+
+### What Regular Copilot Looks Like (❌ Not Pro)
+
+Regular Copilot users see:
+- ❌ NO model selector dropdown at all
+- ❌ Just a simple chat interface
+- ❌ No ability to choose models
+- ❌ No model names visible
+
+**The presence of the model selector IS the Pro feature!**
+
+---
+
 ## Understanding What You're Seeing
 
 ### You Said: "I see GPT 5.3 codex, GPT 5.4, but Claude Opus 4.6 (contact ur admin)"
@@ -287,6 +328,22 @@ It's equivalent to Copilot Pro, just free for students.
 - When you last updated VS Code/extensions
 
 Everyone's model list can be slightly different.
+
+### Q: I took a screenshot of my model selector - how do I know if I have Pro?
+
+**A**: If your screenshot shows:
+- ✅ A dropdown menu with multiple model names → **YES, you have Pro!**
+- ✅ Models like GPT-5.3, GPT-5.4, Claude, Gemini, etc. → **YES, you have Pro!**
+- ✅ Some models say "Contact your admin" → **Still YES, you have Pro!**
+- ✅ You can click to select different models → **YES, you have Pro!**
+
+The model selector dropdown itself IS the Pro feature. If you don't have Pro, you won't see this dropdown at all.
+
+**What the screenshot should look like for Pro:**
+- Multiple rows of model names
+- Model versions (e.g., "GPT-5.4", "Claude Sonnet 4.6")
+- A checkmark next to the currently selected model
+- Possibly some models with "Contact your admin" (normal!)
 
 ---
 
