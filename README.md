@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 🤖 GitHub Copilot Setup
+
+Having trouble seeing GitHub Copilot workspace features or model selection in VS Code? Check out our comprehensive [GitHub Copilot Setup Guide](COPILOT_SETUP.md) for:
+- Step-by-step installation instructions
+- Troubleshooting common issues
+- How to use Copilot with this React project
+- Student Developer Pack activation help
+
 ## Available Scripts
 
 In the project directory, you can run:
