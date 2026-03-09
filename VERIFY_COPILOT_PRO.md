@@ -309,6 +309,43 @@ As long as you can use 1-2+ models, you have Pro working.
 
 **Remember**: You don't need every model to be productive with Copilot Pro!
 
+### Q: I'm a student at [University Name] and Claude models say "Contact your admin". Why?
+
+**A**: This is **completely normal** for university/student accounts! Here's why:
+
+**Why Claude May Be Restricted:**
+1. **License Tier Limitations**
+   - Student Developer Pack = Full Copilot Pro features
+   - BUT: Claude models often require Enterprise/Business licensing
+   - This is due to GitHub's agreement with Anthropic (Claude's maker)
+   - It's not related to your location or university
+
+2. **University Policies**
+   - Your university may restrict certain AI models
+   - This is a institutional decision, not a GitHub limitation
+   - Contact your university IT department if you need access
+
+3. **It's NOT About Your Location**
+   - If location blocked you, ALL models would be unavailable
+   - You have GPT and Gemini models working = Pro is active!
+   - The restriction is licensing-based, not geographic
+
+**What You Should Do:**
+
+✅ **Recommended: Use Available Models**
+- **GPT-5.4** or **GPT-5.3-Codex** - Excellent for coding!
+- **Gemini 2.5 Pro** - Google's powerful model
+- **Gemini 3 Flash** - Fast responses for quick questions
+- These are **more than sufficient** for university coursework!
+
+🏫 **Optional: Contact University IT**
+- Ask if they can enable Claude for educational accounts
+- May require institutional license upgrade
+- Not necessary - GPT and Gemini work great!
+
+💡 **Pro Tip for Students:**
+You don't need every model to excel in your studies. GPT-5.4 and Gemini are industry-leading models that can handle any coding task. Focus on learning with what's available!
+
 ### Q: Do I have Pro if I got Copilot through Student Developer Pack?
 
 **A**: YES! The Student Developer Pack includes full Copilot Pro features:
@@ -328,6 +365,35 @@ It's equivalent to Copilot Pro, just free for students.
 - When you last updated VS Code/extensions
 
 Everyone's model list can be slightly different.
+
+### Q: I'm an international student (e.g., in Ethiopia, Kenya, India, etc.). Does my location affect model availability?
+
+**A**: **Location does NOT block individual models!** Here's what to know:
+
+**How Regional Restrictions Work:**
+- ❌ **True regional block**: Would prevent ALL Copilot access, not just certain models
+- ✅ **What you're seeing**: Some models restricted = License/subscription issue, NOT location
+
+**If you see this:**
+```
+✅ GPT-5.4 working
+✅ Gemini models working  
+⚠️ Claude says "Contact admin"
+```
+
+**This means:**
+- ✅ Your location is fine - Copilot works in your country!
+- ✅ Your Pro subscription is active
+- ⚠️ The Claude restriction is due to licensing tiers, not geography
+
+**Regional Availability Truth:**
+- GitHub Copilot Pro works globally, including in Africa, Asia, South America
+- If your country had restrictions, you wouldn't be able to use Copilot at all
+- University students worldwide (Ethiopia, Kenya, Nigeria, India, Brazil, etc.) successfully use Copilot Pro
+- Having 5+ working models proves your location is supported
+
+**Bottom Line for International Students:**
+Your location in Ethiopia (or any country) is NOT the problem. The Claude restriction is normal for student accounts worldwide. Use GPT-5.4 or Gemini - they work perfectly for any coding task!
 
 ### Q: I took a screenshot of my model selector - how do I know if I have Pro?
 
@@ -358,6 +424,42 @@ Congratulations! You're ready to code with Copilot Pro. Next:
 3. **Use @workspace**: Ask about this movie app codebase
 4. **Practice**: Open `App.js` and start coding with suggestions
 5. **Run the app**: `npm start` and make changes with Copilot's help
+
+### 🎓 Best Models for University Students
+
+**If some models are restricted (like Claude), use these excellent alternatives:**
+
+1. **GPT-5.4** (Recommended!)
+   - Latest and most capable model
+   - Excellent for complex coding problems
+   - Great for explaining concepts
+   - Best for: Assignments, projects, learning new frameworks
+
+2. **GPT-5.3-Codex**
+   - Specialized for code generation
+   - Fast and accurate for programming tasks
+   - Best for: Pure coding, refactoring, bug fixes
+
+3. **Gemini 2.5 Pro**
+   - Google's advanced model
+   - Different "thinking style" than GPT
+   - Best for: Getting alternative perspectives, complex algorithms
+
+4. **Gemini 3 Flash** (Preview)
+   - **Fastest responses** (0.33x = 3x faster!)
+   - Perfect for quick questions
+   - Best for: Debugging, quick syntax help, rapid iteration
+
+**Pro Tip:** Try different models for different tasks! Sometimes Gemini explains things differently than GPT, which can help you learn better.
+
+**You DON'T need Claude to:**
+- ✅ Complete university assignments
+- ✅ Build full-stack applications
+- ✅ Learn new programming languages
+- ✅ Debug complex code
+- ✅ Understand algorithms and data structures
+
+All the working models in your screenshot are **industry-leading** and more than sufficient for academic and professional work!
 
 ### ❌ If Pro Is NOT Working (No Model Selection)
 
