@@ -296,7 +296,7 @@ Everyone's model list can be slightly different.
 
 Congratulations! You're ready to code with Copilot Pro. Next:
 
-1. **Learn the features**: Read [GETTING_STARTED_COPILOT_PRO.md](GETTING_STARTED_COPILOT_PRO.md) Step 12
+1. **Learn the features**: Read [Step 12: Practice Using Copilot Pro Features](GETTING_STARTED_COPILOT_PRO.md#step-12-practice-using-copilot-pro-features)
 2. **Try different models**: Experiment to see which you prefer
 3. **Use @workspace**: Ask about this movie app codebase
 4. **Practice**: Open `App.js` and start coding with suggestions
