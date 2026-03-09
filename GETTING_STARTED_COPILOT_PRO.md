@@ -2,6 +2,8 @@
 
 This is a complete step-by-step guide to get GitHub Copilot Pro working in VS Code with this movie app project. Follow these steps in order, and you'll be up and running in no time!
 
+> **Already set up and just need a quick reference?** Check out the [Quick Start Cheat Sheet](QUICK_START.md)!
+
 ## 📋 What You'll Need
 
 Before we start, make sure you have:

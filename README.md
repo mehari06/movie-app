@@ -17,6 +17,8 @@ This guide covers everything from:
 - ✅ Running the movie app with Copilot assistance
 - ✅ Practical examples and troubleshooting
 
+**Already set up? Just need the essentials?** Check the **[Quick Start Cheat Sheet](QUICK_START.md)** for shortcuts and commands.
+
 **Already have Copilot but having issues?** Check the [Troubleshooting Guide](COPILOT_SETUP.md) for:
 - Common problems and solutions
 - Extension configuration
