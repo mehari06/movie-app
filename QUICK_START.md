@@ -91,6 +91,11 @@ npm start
 → You might have regular Copilot, not Pro
 → Check: https://github.com/settings/copilot
 
+**Model says "Language model unavailable"?**
+→ This is temporary! Your Pro still works ✅
+→ Just switch to a different model in the dropdown
+→ See: [Issue 6 troubleshooting](COPILOT_SETUP.md#issue-6-language-model-unavailable-error)
+
 **npm install fails?**
 → Install Node.js from https://nodejs.org/
 → Run `node --version` to verify

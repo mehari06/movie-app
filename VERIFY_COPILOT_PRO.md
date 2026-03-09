@@ -251,6 +251,29 @@ You might see models marked as restricted:
 3. Check file type - Copilot works in code files (.js, .py, etc.)
 4. Try typing a comment then pressing Enter
 
+### Scenario 5: "I see models but one says 'Language model unavailable'"
+
+**Status**: ✅ **Copilot Pro IS working! This is a temporary issue**
+
+**Explanation**:
+- This is **NOT** a subscription or license problem
+- If you can see the model selector, your Pro is active ✅
+- Specific models may be temporarily unavailable due to:
+  - Service maintenance or updates
+  - High demand/rate limiting
+  - Temporary outages
+- This happens to all users occasionally
+
+**Action**:
+1. **Use a different model** (immediate solution!)
+   - Click model selector and choose any available model
+   - All models are powerful - you'll get great results
+2. **Wait and retry** - Usually resolves in 15 minutes to a few hours
+3. **Check** [GitHub Status](https://www.githubstatus.com/) for service updates
+4. **See detailed troubleshooting**: [Issue 6 in COPILOT_SETUP.md](COPILOT_SETUP.md#issue-6-language-model-unavailable-error)
+
+**Remember**: Models that worked yesterday and are unavailable today will typically return to service soon. This is normal cloud service behavior!
+
 ---
 
 ## What Each Subscription Includes
@@ -460,6 +483,34 @@ Congratulations! You're ready to code with Copilot Pro. Next:
 - ✅ Understand algorithms and data structures
 
 All the working models in your screenshot are **industry-leading** and more than sufficient for academic and professional work!
+
+### Q: A model that worked yesterday now says "Language model unavailable". Did I lose my Pro subscription?
+
+**A**: **NO!** Your Pro subscription is still active. This is a temporary model availability issue, not a subscription problem.
+
+**Why this happens:**
+- ✅ Your Pro is still working - you can see the model selector!
+- ⚠️ Specific models may be temporarily down for maintenance, updates, or high demand
+- 🔄 This is normal cloud service behavior that happens to all users occasionally
+- ⏰ Usually resolves in 15 minutes to a few hours
+
+**What to do:**
+1. **Switch models immediately** - Click model selector and choose any available model
+2. **Keep working** - All models are powerful, you won't lose productivity
+3. **Check later** - The model will likely be available again soon
+4. **Check status** - Visit [GitHub Status](https://www.githubstatus.com/) for updates
+
+**Example:**
+```
+Yesterday: GPT-5.4 ✅ Working
+Today:     GPT-5.4 ❌ Language model unavailable
+Today:     GPT-5.3 ✅ Working ← Use this one!
+Today:     Gemini  ✅ Working ← Or this one!
+```
+
+**Key point**: If you can still see the model dropdown with multiple models, your Copilot Pro subscription is fine! Just use a different model temporarily.
+
+**Detailed troubleshooting**: See [Issue 6 in COPILOT_SETUP.md](COPILOT_SETUP.md#issue-6-language-model-unavailable-error)
 
 ### ❌ If Pro Is NOT Working (No Model Selection)
 

@@ -161,6 +161,93 @@ When GitHub Copilot Pro is properly activated, you can select different models:
    - Sign out and back in to VS Code
    - Restart VS Code
 
+### Issue 6: "Language model unavailable" Error
+
+**Symptoms**:
+- Specific models (e.g., GPT-5.3, GPT-5.4) show "Language model unavailable" error
+- Models worked yesterday but not today
+- Error appears when trying to use certain models in Copilot Chat
+- Other models may still work fine
+
+**Important**: This is **NOT** a Copilot Pro subscription issue! If you can see the model selector with multiple models, your Pro subscription is working correctly. This is a temporary model availability issue.
+
+**Common Causes**:
+
+1. **Temporary Service Issues**
+   - GitHub's AI model services experience temporary outages
+   - Specific models may be under maintenance
+   - High demand can cause temporary unavailability
+
+2. **Rate Limiting**
+   - You may have exceeded usage limits for a specific model
+   - Different models have different rate limits
+   - Limits typically reset after a few hours
+
+3. **Model Deployment Updates**
+   - GitHub periodically updates or rotates AI models
+   - Some models may be temporarily offline during updates
+   - New model versions may be rolling out
+
+**Solutions**:
+
+1. **Switch to a Different Model** (Immediate workaround)
+   - Click the model selector at the top of Copilot Chat
+   - Choose a different available model (e.g., if GPT-5.4 is unavailable, try GPT-5.3-Codex, Gemini, or another model)
+   - All models are powerful - you'll get excellent results with any available model
+   
+   Example: If you see:
+   ```
+   ✅ GPT-5.3-Codex - Available
+   ❌ GPT-5.4 - Language model unavailable
+   ✅ Gemini 2.5 Pro - Available
+   ```
+   Just use GPT-5.3-Codex or Gemini instead!
+
+2. **Wait and Retry**
+   - Model availability issues are usually temporary (minutes to hours)
+   - Try again in 15-30 minutes
+   - Most issues resolve within a few hours
+   - The model will automatically become available again once service is restored
+
+3. **Check GitHub Status**
+   - Visit [GitHub Status](https://www.githubstatus.com/)
+   - Look for any reported issues with "Copilot" or "AI Services"
+   - Check if there are ongoing incidents or maintenance
+
+4. **Verify It's Not a Subscription Issue**
+   - If ALL models show as unavailable → might be a subscription/auth issue (see Issue 1)
+   - If ONLY specific models are unavailable → it's a temporary availability issue (normal!)
+   - Being able to see the model dropdown = Your Pro subscription is fine ✅
+
+5. **Clear and Reload**
+   - Open Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`)
+   - Type "Developer: Reload Window"
+   - Try the model again after reload
+
+6. **Update Extensions**
+   - Sometimes model availability improves with extension updates
+   - Go to Extensions view (`Ctrl+Shift+X`)
+   - Check for updates to GitHub Copilot and GitHub Copilot Chat extensions
+   - Update if available, then reload VS Code
+
+**What You Should Know**:
+
+✅ **This is NORMAL**: Model unavailability happens occasionally to all users  
+✅ **You still have Pro**: Seeing the model selector = Pro is working  
+✅ **Use other models**: All available models are excellent alternatives  
+✅ **It's temporary**: Models usually return to availability within hours  
+✅ **Not your fault**: This is a service-side issue, not something you caused  
+
+**Best Practice**:
+- Bookmark 2-3 favorite models that you like
+- If your primary choice is unavailable, switch to your backup
+- Don't wait - be productive with whichever models are available!
+
+**Still Having Issues After 24 Hours?**
+- Check [GitHub Community Discussions](https://github.com/orgs/community/discussions/categories/copilot)
+- Contact [GitHub Support](https://support.github.com/)
+- Verify your subscription is still active at [GitHub Copilot Settings](https://github.com/settings/copilot)
+
 ## Advanced Features for This Project
 
 ### Using Copilot with React
