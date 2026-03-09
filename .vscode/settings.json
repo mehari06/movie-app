@@ -1,6 +1,5 @@
 {
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
   },
@@ -11,9 +10,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "github.copilot.enable": {
-    "*": true,
-    "javascript": true,
-    "javascriptreact": true
+    "*": true
   },
   "github.copilot.editor.enableAutoCompletions": true
 }
