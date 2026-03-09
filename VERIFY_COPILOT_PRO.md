@@ -446,7 +446,7 @@ Congratulations! You're ready to code with Copilot Pro. Next:
    - Best for: Getting alternative perspectives, complex algorithms
 
 4. **Gemini 3 Flash** (Preview)
-   - **Fastest responses** (0.33x = 3x faster!)
+   - **Fastest responses** (uses 0.33x credits, responds ~3x faster!)
    - Perfect for quick questions
    - Best for: Debugging, quick syntax help, rapid iteration
 
