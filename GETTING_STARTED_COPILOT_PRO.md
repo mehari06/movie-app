@@ -255,6 +255,7 @@ Time to interact with your AI coding assistant!
    - You'll see a chat interface on the side
    - At the top, you might see a model selector (GPT-4, etc.)
    - At the bottom is a text input box
+   - **See multiple models?** 🎉 [Verify your Pro is working!](VERIFY_COPILOT_PRO.md)
 
 3. **Try your first question**:
    Type in the chat:

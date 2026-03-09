@@ -35,6 +35,8 @@ Alternatively, when you open this project in VS Code, it will automatically reco
 
 ## Using GitHub Copilot Features
 
+> 💡 **Not sure if Copilot Pro is working?** See the [Copilot Pro Verification Guide](VERIFY_COPILOT_PRO.md) to confirm your setup!
+
 ### Inline Code Suggestions
 
 - Start typing code, and Copilot will suggest completions

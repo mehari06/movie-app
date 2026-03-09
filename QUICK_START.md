@@ -76,6 +76,8 @@ npm start
 - [ ] Typing shows gray suggestions you can Tab to accept
 - [ ] `npm start` runs the app at http://localhost:3000
 
+**See models but unsure if Pro is working?** → [Verify Copilot Pro Guide](VERIFY_COPILOT_PRO.md)
+
 ## 🔧 Quick Fixes
 
 **Copilot not working?**
