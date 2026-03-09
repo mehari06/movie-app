@@ -2,12 +2,24 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 🤖 GitHub Copilot Setup
+## 🚀 NEW: Complete Step-by-Step Guide for GitHub Copilot Pro
 
-Having trouble seeing GitHub Copilot workspace features or model selection in VS Code? Check out our comprehensive [GitHub Copilot Setup Guide](COPILOT_SETUP.md) for:
-- Step-by-step installation instructions
-- Troubleshooting common issues
-- How to use Copilot with this React project
+**Want to use GitHub Copilot Pro with this project?** Follow our complete walkthrough guide:
+
+👉 **[Getting Started with Copilot Pro - Step by Step Guide](GETTING_STARTED_COPILOT_PRO.md)** 👈
+
+This guide covers everything from:
+- ✅ Getting GitHub Copilot Pro access (free for students!)
+- ✅ Installing VS Code and required tools
+- ✅ Cloning this repository
+- ✅ Setting up extensions and signing in
+- ✅ Using workspace features and model selection
+- ✅ Running the movie app with Copilot assistance
+- ✅ Practical examples and troubleshooting
+
+**Already have Copilot but having issues?** Check the [Troubleshooting Guide](COPILOT_SETUP.md) for:
+- Common problems and solutions
+- Extension configuration
 - Student Developer Pack activation help
 
 ## Available Scripts
